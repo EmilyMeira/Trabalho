@@ -1,9 +1,19 @@
-body{
-  background-color: #FFFFFF
+body{background-color: #FFFFFF
 }
 h1{
   text-align: center;color:#190501
 }
 p{
   color: #FFFFFF
+}
+nav li{
+  font-size: 50px
+  position:static;
+}
+nav a{
+  font-size: 40px
+  position:static;
+}
+header{
+  background-color: pink
 }
